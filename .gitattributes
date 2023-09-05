@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:/Users/HongKI.DESKTOP-K78E2P6/Downloads/Practice/Bird filter=lfs diff=lfs merge=lfs -text
+Bird/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
+Bird/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/libburst-11vm-12.dylib filter=lfs diff=lfs merge=lfs -text
+Bird/Library filter=lfs diff=lfs merge=lfs -text
